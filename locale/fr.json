@@ -46,6 +46,8 @@
     "PLACEHOLDER_SEARCH_SNIPPET": "Rechercher un snippet...",
     "PLACEHOLDER_SHARE_WITH_EMAIL": "Partager par email",
     "PLACEHOLDER_ENTER_NEW_PASS": "Entrer un nouveau mot de pase",
+    "PLACEHOLDER_ADD_NOTES": "Ajouter des notes",
+    "PLACEHOLDER_ADD_TAGS": "Ajouter un tag",
 
     "ALT_SHARE_SNIPPET": "Partager le snippet",
 
