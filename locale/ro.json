@@ -5,6 +5,7 @@
     "LABEL_ALL": "Toate",
     "LABEL_SHARED_WITH_ME": "Shared cu mine",
     "LABEL_TAGS": "Tag-uri",
+    "LABEL_NOTES": "Note",
     "LABEL_LANGUAGE": "Limbaj",
     "LABEL_SAVE": "Salvează",
     "LABEL_CLICK_TO_VIEW_CODE": "Click pe sippet sa vezi codul",
@@ -46,6 +47,8 @@
     "PLACEHOLDER_SEARCH_SNIPPET": "Caută snippet...",
     "PLACEHOLDER_SHARE_WITH_EMAIL": "Share cu adresă email",
     "PLACEHOLDER_ENTER_NEW_PASS": "Introduceti o parolă nouă",
+    "PLACEHOLDER_ADD_NOTES": "Adaugă note",
+    "PLACEHOLDER_ADD_TAGS": "Adaugă un tag",
 
     "ALT_SHARE_SNIPPET": "Share snippet",
 
@@ -203,5 +206,6 @@
     "TITLE_SNIPPET_SAVED": "Snippet salvat",
     "MESSAGE_SNIPPET_SAVED": "Snippet salvat cu succes",
     "TITLE_PREFERENCES_SAVED": "Preferințe",
-    "MESSAGE_PREFERENCES_SAVED": "Setările dv. au fost salvate cu succes"
+    "MESSAGE_PREFERENCES_SAVED": "Setările dv. au fost salvate cu succes",
+    "MESSAGE_GROUP_SAVED": "Grup salvat"
 }

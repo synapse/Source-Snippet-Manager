@@ -5,6 +5,7 @@
     "LABEL_ALL": "Tutti",
     "LABEL_SHARED_WITH_ME": "Condivisi con me",
     "LABEL_TAGS": "Tags",
+    "LABEL_NOTES": "Note",
     "LABEL_LANGUAGE": "Lingua",
     "LABEL_SAVE": "Salva",
     "LABEL_CLICK_TO_VIEW_CODE": "Click sul snippet per vedere il codice",
@@ -46,6 +47,8 @@
     "PLACEHOLDER_SEARCH_SNIPPET": "Cerca snippet...",
     "PLACEHOLDER_SHARE_WITH_EMAIL": "Condividi con un'indirizzo email",
     "PLACEHOLDER_ENTER_NEW_PASS": "Inserisci nuova password",
+    "PLACEHOLDER_ADD_NOTES": "Aggiungi note",
+    "PLACEHOLDER_ADD_TAGS": "Aggiungi un tag",
 
     "ALT_SHARE_SNIPPET": "Condividi snippet",
 
@@ -203,5 +206,6 @@
     "TITLE_SNIPPET_SAVED": "Snippet salvato",
     "MESSAGE_SNIPPET_SAVED": "Snippet salvato con successo",
     "TITLE_PREFERENCES_SAVED": "Preferenze",
-    "MESSAGE_PREFERENCES_SAVED": "Le preferenze sono state salvate con successo"
+    "MESSAGE_PREFERENCES_SAVED": "Le preferenze sono state salvate con successo",
+    "MESSAGE_GROUP_SAVED": "Gruppo salvato"
 }
